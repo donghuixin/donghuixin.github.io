@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Huixin Dong"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.d. Candidate in HUST"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
@@ -76,12 +76,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  manuscripts:
+    title: 'Journal Articles'
+    
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
