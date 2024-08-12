@@ -16,16 +16,13 @@ News!
 
 Selected Publications
 ======
-1. GPSMirror: Expanding accurate gps positioning to shadowed and indoor regions with backscatter (ACM MobiCom 2023)[Slides](https://sigmobile.org/mobicom/2023/media/presentations/DongGPSMirror.pptx)
-   
+1. GPSMirror: Expanding accurate gps positioning to shadowed and indoor regions with backscatter, ACM MobiCom, 2024. [(Slides)](https://sigmobile.org/mobicom/2023/media/presentations/DongGPSMirror.pptx)  
    **Huixin Dong**, Yirong Xie, Xianan Zhang, Wei Wang, Xinyu Zhang and Jianhua He
    
-1. C-Cube: Rethinking distributed beamforming for concurrent charging in backscatter networks (ACM UbiComp 2023)
-   
+1. C-Cube: Rethinking distributed beamforming for concurrent charging in backscatter networks, ACM UbiComp/IMWUT, 2023.     
    Shiyue He, Wenyuan Ma, **Huixin Dong**, Lixia Xiao and Tao Jiang
    
-1. FreeScatter: Enabling concurrent backscatter communication using antenna arrays (IoTJ 2020)
-   
+1. FreeScatter: Enabling concurrent backscatter communication using antenna arrays, IEEE IoTJ, 2020.     
    Qianyi Huang, Guochao Song, Wei Wang, **Huixin Dong**, Jin Zhang and Qian Zhang
 
 
