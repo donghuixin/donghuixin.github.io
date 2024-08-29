@@ -27,4 +27,4 @@ Selected Publications
    
 Services
 ======
-1. Reviewer of IEEE/ACM Transactions on Networking, ACM Transactions on Internet of Things, IEEE Transactions on Mobile Computing
+1. Reviewer of IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Internet of Things Journal.
