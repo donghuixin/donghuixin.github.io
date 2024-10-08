@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at Huazhong University of Science and Technology (HUST) under the supervision of [Prof. Wei Wang](https://eic.hust.edu.cn/professor/wangwei/index.html). I collaborate closely with [Prof. Xinyu Zhang](http://xyzhang.ucsd.edu/) at UCSD on the backscatter network. I also collaborate with [Prof. Jie Xiong](https://people.cs.umass.edu/~jxiong/) and [Prof. Lili Qiu](https://www.cs.utexas.edu/~lili/) at Microsoft Research Asia (MSRA) on GPS sensing.
+I am a PhD candidate at Huazhong University of Science and Technology (HUST) under the supervision of [Prof. Wei Wang](https://eic.hust.edu.cn/professor/wangwei/index.html). I collaborate closely with [Prof. Jie Xiong](https://people.cs.umass.edu/~jxiong/) and [Prof. Lili Qiu](https://www.cs.utexas.edu/~lili/) at Microsoft Research Asia (MSRA) on GPS sensing.
 
 News!
 ======
