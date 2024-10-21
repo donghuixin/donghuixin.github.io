@@ -28,7 +28,15 @@ Selected Publications
    
 1. FreeScatter: Enabling concurrent backscatter communication using antenna arrays, **IEEE IoTJ**, 2020. [Paper](https://ieeexplore.ieee.org/document/9052666)       
    Qianyi Huang, Guochao Song, Wei Wang, **Huixin Dong**, Jin Zhang and Qian Zhang
-   
-Services
+
+Awards
 ======
-1. Reviewer of IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Internet of Things Journal.
+ACM MobiCom Student Travel Grant, 2024
+Student Academic Rising Star in HUST, 2024
+
+Professional Services
+======
+1. Artifact Evaluation Committee of ACM SenSys 2024
+2. Reviewer of IEEE/ACM Transactions on Networking, 2024
+3. Reviewer of IEEE Transactions on Mobile Computing, 2024
+4. Reviewer of IEEE Internet of Things Journal, 2023
