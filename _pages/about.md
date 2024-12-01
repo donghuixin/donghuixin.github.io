@@ -76,7 +76,7 @@ Qianyi Huang, Guochao Song, Wei Wang, **Huixin Dong**, Jin Zhang and Qian Zhang
 
 # 📖 Educations
 - *2020.09 - 2024.12 (now)*, Ph.D., Information and Communication Engineering, Huazhong University of Science and Technology (HUST). 
-- *2018.09 - 2020.06 *, M.S., Information and Communication Engineering, Huazhong University of Science and Technology (HUST). 
+- *2018.09 - 2020.06*, M.S., Information and Communication Engineering, Huazhong University of Science and Technology (HUST). 
 - *2014.09 - 2018.06*, B.S., Communication Engineering, Wuhan University of Technology (WUT).  
 
 # 💬 Talks
