@@ -28,7 +28,7 @@ My research interests include backscatter networking and wireless sensing.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MobiCom 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MobiCom 2024</div><img src='images/150x90.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [GPSense: Passive Sensing with Pervasive GPS Signals](https://metaiot.group/publication/paper/mobicom24-GPSense.pdf)
   
