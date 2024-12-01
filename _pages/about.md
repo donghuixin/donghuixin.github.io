@@ -29,7 +29,7 @@ I have published more than 5 papers at the top international AI conferences with
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MobiCom 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 1. GPSense: Passive Sensing with Pervasive GPS Signals, ACM MobiCom, 2024.
 Huixin Dong, Minhao Cui, Ning Wang, Lili Qiu, Jie Xiong and Wei Wang
