@@ -26,7 +26,7 @@ My research interests include backscatter networking and wireless sensing.
 - *2024.06*: &nbsp;🎉🎉 GPSense is accepted by MobiCom 2024. 
 - *2023.06*: &nbsp;🎉🎉 GPSMirror is accepted by MobiCom 2023. 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom'24</div></div></div>
 <div class='paper-box-text' markdown="1">
@@ -49,6 +49,14 @@ My research interests include backscatter networking and wireless sensing.
 [GPSMirror: Expanding accurate GPS positioning to shadowed and indoor regions with backscatter](https://arxiv.org/pdf/2304.07572)
 
 **Huixin Dong**, Yirong Xie, Xianan Zhang, Wei Wang, Xinyu Zhang and Jianhua He
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ'24</div></div></div>
+<div class='paper-box-text' markdown="1">
+[Accurate Indoor Localization for Bluetooth Low Energy Backscatter](https://arxiv.org/pdf/2304.07572)
+
+Zhiqing Luo, Weiming Li, Yijie Wu, **Huixin Dong**  and Wei Wang
 </div>
 </div>
 
