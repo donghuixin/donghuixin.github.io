@@ -20,7 +20,6 @@ redirect_from:
 I am a PhD candidate at Huazhong University of Science and Technology (HUST) under the supervision of Prof. Wei Wang. I collaborate closely with Prof. Jie Xiong and Prof. Lili Qiu at Microsoft Research Asia (MSRA) on GPS sensing.
 
 My research interests include backscatter networking and wireless sensing. 
-I have published more than 5 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -33,11 +32,11 @@ I have published more than 5 papers at the top international AI conferences with
 <div class='paper-box-text' markdown="1">
 [GPSense: Passive Sensing with Pervasive GPS Signals](https://metaiot.group/publication/paper/mobicom24-GPSense.pdf)
   
-Huixin Dong, Minhao Cui, Ning Wang, Lili Qiu, Jie Xiong and Wei Wang
+**Huixin Dong**, Minhao Cui, Ning Wang, Lili Qiu, Jie Xiong and Wei Wang*
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [GPSMirror: Expanding accurate GPS positioning to shadowed and indoor regions with backscatter](https://arxiv.org/pdf/2304.07572), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
