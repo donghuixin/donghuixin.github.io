@@ -32,7 +32,7 @@ My research interests include backscatter networking and wireless sensing.
 <div class='paper-box-text' markdown="1">
 [GPSense: Passive Sensing with Pervasive GPS Signals](https://metaiot.group/publication/paper/mobicom24-GPSense.pdf)
   
-**Huixin Dong**, Minhao Cui, Ning Wang, Lili Qiu, Jie Xiong and Wei Wang*
+**Huixin Dong**, Minhao Cui, Ning Wang, Lili Qiu, Jie Xiong and Wei Wang
 </div>
 </div>
 
