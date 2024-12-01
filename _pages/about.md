@@ -16,8 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
-I am a PhD candidate at Huazhong University of Science and Technology (HUST) under the supervision of Prof. Wei Wang. I collaborate closely with Prof. Jie Xiong and Prof. Lili Qiu at Microsoft Research Asia (MSRA) on GPS sensing.
+# ⛪ About me
+I am a PhD candidate in [MetaIoT Lab](https://metaiot.group/) at Huazhong University of Science and Technology (HUST) under the supervision of Prof. [Wei Wang](https://weiwang.cslee.cc/). I collaborate closely with Prof. [Jie Xiong](https://people.cs.umass.edu/~jxiong/) and Prof. [Lili Qiu](https://www.microsoft.com/en-us/research/people/liliqiu/) at Microsoft Research Asia (MSRA) on GPS sensing.
 
 My research interests include backscatter networking and wireless sensing. 
 
@@ -70,16 +70,19 @@ Qianyi Huang, Guochao Song, Wei Wang, **Huixin Dong**, Jin Zhang and Qian Zhang
 
 
 # 🎖 Honors and Awards
-- *2024.10* ACM MobiCom Student Travel Grant. 
+- *2024.10* ACM MobiCom Student Travel Grant.
+- *2024.10* Second Prize in Ubiquitous Intelligent Sensing Technology Competition.
 - *2024.01* Student Academic Rising Star in HUST, 2024. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2024.12 (now)*, Ph.D., Information and Communication Engineering, Huazhong University of Science and Technology (HUST). 
+- *2018.09 - 2020.06 *, M.S., Information and Communication Engineering, Huazhong University of Science and Technology (HUST). 
+- *2014.09 - 2018.06*, B.S., Communication Engineering, Wuhan University of Technology (WUT).  
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Talks
+- *2024.11*, Conference paper presentation (GPSense), ACM MobiCom 2024 in Washington, D.C, USA.
+- *2024.11*, Workshop paper presentation (TuniScatter), ACM SenSys workshop 2024 in Hangzhou, China.
+- *2023.10*, Conference paper presentation (GPSMirror), ACM MobiCom 2023 in Madrid, Spain.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2020.05 - 2020.08*, Peng Cheng Laboratory, mentored by Qianyi Huang, Shenzhen, China.
