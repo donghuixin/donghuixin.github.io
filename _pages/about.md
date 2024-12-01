@@ -36,7 +36,7 @@ My research interests include backscatter networking and wireless sensing.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MobiCom 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MobiCom 2023</div></div></div>
 <div class='paper-box-text' markdown="1">
 [GPSMirror: Expanding accurate GPS positioning to shadowed and indoor regions with backscatter](https://arxiv.org/pdf/2304.07572)
 
