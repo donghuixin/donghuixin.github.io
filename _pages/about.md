@@ -28,19 +28,43 @@ My research interests include backscatter networking and wireless sensing.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MobiCom 2024</div><img src='images/150x90.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom'24</div></div></div>
 <div class='paper-box-text' markdown="1">
 [GPSense: Passive Sensing with Pervasive GPS Signals](https://metaiot.group/publication/paper/mobicom24-GPSense.pdf)
-  
-**Huixin Dong**, Minhao Cui, Ning Wang, Lili Qiu, Jie Xiong and Wei Wang
+
+**Huixin Dong**, Minhao Cui*, Ning Wang, Lili Qiu, Jie Xiong and Wei Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MobiCom 2023</div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SenSys-RFCom'24</div></div></div>
+<div class='paper-box-text' markdown="1">
+[A Unified Tunnel-diode Based Low Power Signal Waveform Transform Hardware for RF Computing](https://metaiot.group/publication/paper/mobicom24-GPSense.pdf)
+
+**Huixin Dong**, Liu Yang, Lehuan Yang, Zhiqing Luo, Chunshen li, Xianan Zhang and Wei Wang∗
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom'23</div></div></div>
 <div class='paper-box-text' markdown="1">
 [GPSMirror: Expanding accurate GPS positioning to shadowed and indoor regions with backscatter](https://arxiv.org/pdf/2304.07572)
 
 **Huixin Dong**, Yirong Xie, Xianan Zhang, Wei Wang, Xinyu Zhang and Jianhua He
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT/Ubicomp'23</div></div></div>
+<div class='paper-box-text' markdown="1">
+[C-Cube: Rethinking distributed beamforming for concurrent charging in backscatter networks](https://arxiv.org/pdf/2304.07572)
+
+Shiyue He, Wenyuan Ma, **Huixin Dong**, Lixia Xiao and Tao Jiang
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ'20</div></div></div>
+<div class='paper-box-text' markdown="1">
+[FreeScatter: Enabling concurrent backscatter communication using antenna arrays](https://arxiv.org/pdf/2304.07572)
+
+Qianyi Huang, Guochao Song, Wei Wang, **Huixin Dong**, Jin Zhang and Qian Zhang
 </div>
 </div>
 
