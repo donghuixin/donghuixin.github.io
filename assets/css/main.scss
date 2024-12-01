@@ -46,18 +46,18 @@
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
+    border-bottom: 2px #efefef solid;
     padding: 2em 0 2em 0;
     
 
     .paper-box-image{
         justify-content: center;
         display: flex;
-        width: 100%;
+        width: 50%;
         order: 2;
         img {
-            max-width: 100px;
-            box-shadow: 3px 3px 6px #888;
+            max-width: 50px;
+            box-shadow: 1px 1px 3px #888;
             object-fit: cover;
         }
     }
