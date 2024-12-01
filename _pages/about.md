@@ -36,7 +36,14 @@ My research interests include backscatter networking and wireless sensing.
 </div>
 </div>
 
-- [GPSMirror: Expanding accurate GPS positioning to shadowed and indoor regions with backscatter](https://arxiv.org/pdf/2304.07572), A, B, C, **CVPR 2020**
+<div class='paper-box'><div><div class="badge">ACM MobiCom 2024</div></div>
+<div class='paper-box-text' markdown="1">
+[GPSMirror: Expanding accurate GPS positioning to shadowed and indoor regions with backscatter](https://arxiv.org/pdf/2304.07572)
+
+**Huixin Dong**, Yirong Xie, Xianan Zhang, Wei Wang, Xinyu Zhang and Jianhua He
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
