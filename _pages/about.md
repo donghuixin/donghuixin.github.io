@@ -38,7 +38,7 @@ My research interests include backscatter networking and wireless sensing.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SenSys-RFCom'24</div></div></div>
 <div class='paper-box-text' markdown="1">
-[A Unified Tunnel-diode Based Low Power Signal Waveform Transform Hardware for RF Computing]([https://metaiot.group/publication/paper/mobicom24-GPSense.pdf](https://dl.acm.org/doi/10.1145/3698386.3699993))
+[A Unified Tunnel-diode Based Low Power Signal Waveform Transform Hardware for RF Computing](https://dl.acm.org/doi/10.1145/3698386.3699993)
 
 **Huixin Dong**, Liu Yang, Lehuan Yang, Zhiqing Luo, Chunshen li, Xianan Zhang and Wei Wang∗
 </div>
@@ -54,7 +54,7 @@ My research interests include backscatter networking and wireless sensing.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ'24</div></div></div>
 <div class='paper-box-text' markdown="1">
-[Accurate Indoor Localization for Bluetooth Low Energy Backscatter](https://arxiv.org/pdf/2304.07572)
+[Accurate Indoor Localization for Bluetooth Low Energy Backscatter](https://ieeexplore.ieee.org/document/10695776)
 
 Zhiqing Luo, Weiming Li, Yijie Wu, **Huixin Dong**  and Wei Wang
 </div>
@@ -62,7 +62,7 @@ Zhiqing Luo, Weiming Li, Yijie Wu, **Huixin Dong**  and Wei Wang
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT/Ubicomp'23</div></div></div>
 <div class='paper-box-text' markdown="1">
-[C-Cube: Rethinking distributed beamforming for concurrent charging in backscatter networks](https://arxiv.org/pdf/2304.07572)
+[C-Cube: Rethinking distributed beamforming for concurrent charging in backscatter networks](https://dl.acm.org/doi/10.1145/3570342)
 
 Shiyue He, Wenyuan Ma, **Huixin Dong**, Lixia Xiao and Tao Jiang
 </div>
@@ -70,7 +70,7 @@ Shiyue He, Wenyuan Ma, **Huixin Dong**, Lixia Xiao and Tao Jiang
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ'20</div></div></div>
 <div class='paper-box-text' markdown="1">
-[FreeScatter: Enabling concurrent backscatter communication using antenna arrays](https://arxiv.org/pdf/2304.07572)
+[FreeScatter: Enabling concurrent backscatter communication using antenna arrays](https://huangqy7.github.io/Paper/FreeScatter.pdf)
 
 Qianyi Huang, Guochao Song, Wei Wang, **Huixin Dong**, Jin Zhang and Qian Zhang
 </div>
