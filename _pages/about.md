@@ -38,7 +38,7 @@ My research interests include backscatter networking and wireless sensing.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SenSys-RFCom'24</div></div></div>
 <div class='paper-box-text' markdown="1">
-[A Unified Tunnel-diode Based Low Power Signal Waveform Transform Hardware for RF Computing](https://metaiot.group/publication/paper/mobicom24-GPSense.pdf)
+[A Unified Tunnel-diode Based Low Power Signal Waveform Transform Hardware for RF Computing]([https://metaiot.group/publication/paper/mobicom24-GPSense.pdf](https://dl.acm.org/doi/10.1145/3698386.3699993))
 
 **Huixin Dong**, Liu Yang, Lehuan Yang, Zhiqing Luo, Chunshen li, Xianan Zhang and Wei Wang∗
 </div>
@@ -78,14 +78,17 @@ Qianyi Huang, Guochao Song, Wei Wang, **Huixin Dong**, Jin Zhang and Qian Zhang
 
 
 # 🎖 Honors and Awards
+- *2024.11* Best Paper Awards in RFCom'24.
 - *2024.10* ACM MobiCom Student Travel Grant.
 - *2024.10* Second Prize in Ubiquitous Intelligent Sensing Technology Competition.
 - *2024.01* Student Academic Rising Star in HUST, 2024. 
 
-# 📖 Educations
-- *2020.09 - 2024.12 (now)*, Ph.D., Information and Communication Engineering, Huazhong University of Science and Technology (HUST). 
-- *2018.09 - 2020.06*, M.S., Information and Communication Engineering, Huazhong University of Science and Technology (HUST). 
-- *2014.09 - 2018.06*, B.S., Communication Engineering, Wuhan University of Technology (WUT).  
+# 📖 Academic Services
+- Artifact Evaluation Committee of ACM SenSys 2024
+- Reviewer of IEEE/ACM Transactions on Networking, 2024
+- Reviewer of IEEE Transactions on Mobile Computing, 2024
+- Reviewer of IEEE Internet of Things Journal, 2023
+
 
 # 💬 Talks
 - *2024.11*, Conference paper presentation (GPSense), ACM MobiCom 2024 in Washington, D.C, USA.
