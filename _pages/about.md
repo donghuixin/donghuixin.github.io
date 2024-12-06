@@ -30,7 +30,7 @@ My research interests include backscatter networking and wireless sensing.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom'24</div></div></div>
 <div class='paper-box-text' markdown="1">
-[GPSense: Passive Sensing with Pervasive GPS Signals](https://dl.acm.org/doi/10.1145/3636534.3690674) [PDF](https://metaiot.group/publication/paper/mobicom24-GPSense.pdf)
+[GPSense: Passive Sensing with Pervasive GPS Signals](https://dl.acm.org/doi/10.1145/3636534.3690674) [📑PDF](https://metaiot.group/publication/paper/mobicom24-GPSense.pdf)
 
 **Huixin Dong**, Minhao Cui*, Ning Wang, Lili Qiu, Jie Xiong and Wei Wang
 </div>
@@ -38,7 +38,7 @@ My research interests include backscatter networking and wireless sensing.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SenSys-RFCom'24</div></div></div>
 <div class='paper-box-text' markdown="1">
-[A Unified Tunnel-diode Based Low Power Signal Waveform Transform Hardware for RF Computing](https://dl.acm.org/doi/abs/10.1145/3570361.3592511) [PDF](https://dl.acm.org/doi/10.1145/3698386.3699993)
+[A Unified Tunnel-diode Based Low Power Signal Waveform Transform Hardware for RF Computing](https://dl.acm.org/doi/abs/10.1145/3570361.3592511) [📑PDF](https://dl.acm.org/doi/10.1145/3698386.3699993)
 
 **Huixin Dong**, Liu Yang, Lehuan Yang, Zhiqing Luo, Chunshen Li, Xianan Zhang and Wei Wang∗
 </div>
