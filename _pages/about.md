@@ -38,7 +38,7 @@ My research interests include backscatter networking and wireless sensing.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SenSys-RFCom'24</div></div></div>
 <div class='paper-box-text' markdown="1">
-[A Unified Tunnel-diode Based Low Power Signal Waveform Transform Hardware for RF Computing](https://dl.acm.org/doi/abs/10.1145/3570361.3592511) 📑[PDF](https://dl.acm.org/doi/10.1145/3698386.3699993)
+[A Unified Tunnel-diode Based Low Power Signal Waveform Transform Hardware for RF Computing](https://dl.acm.org/doi/abs/10.1145/3570361.3592511) 
 
 **Huixin Dong**, Liu Yang, Lehuan Yang, Zhiqing Luo, Chunshen Li, Xianan Zhang and Wei Wang∗
 </div>
@@ -46,7 +46,7 @@ My research interests include backscatter networking and wireless sensing.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom'23</div></div></div>
 <div class='paper-box-text' markdown="1">
-[GPSMirror: Expanding accurate GPS positioning to shadowed and indoor regions with backscatter](https://arxiv.org/pdf/2304.07572)
+[GPSMirror: Expanding accurate GPS positioning to shadowed and indoor regions with backscatter](https://arxiv.org/pdf/2304.07572) 📑[PDF](https://dl.acm.org/doi/10.1145/3698386.3699993)
 
 **Huixin Dong**, Yirong Xie, Xianan Zhang, Wei Wang, Xinyu Zhang and Jianhua He
 </div>
