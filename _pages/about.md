@@ -40,7 +40,7 @@ My research interests include backscatter networking and wireless sensing.
 <div class='paper-box-text' markdown="1">
 [A Unified Tunnel-diode Based Low Power Signal Waveform Transform Hardware for RF Computing](https://dl.acm.org/doi/10.1145/3698386.3699993)
 
-**Huixin Dong**, Liu Yang, Lehuan Yang, Zhiqing Luo, Chunshen li, Xianan Zhang and Wei Wang∗
+**Huixin Dong**, Liu Yang, Lehuan Yang, Zhiqing Luo, Chunshen Li, Xianan Zhang and Wei Wang∗
 </div>
 </div>
 
