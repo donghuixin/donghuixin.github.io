@@ -97,4 +97,4 @@ Qianyi Huang, Guochao Song, Wei Wang, **Huixin Dong**, Jin Zhang and Qian Zhang
 - *2023.10*, Conference paper presentation (GPSMirror), ACM MobiCom 2023 in Madrid, Spain.
 
 # 💻 Internships
-- *2020.05 - 2020.08*, Peng Cheng Laboratory, mentored by Qianyi Huang, Shenzhen, China.
+- *2020.05 - 2020.08*, Peng Cheng Laboratory, mentored by [Qianyi Huang](https://huangqy89.github.io/), Shenzhen, China.
