@@ -26,7 +26,7 @@ My research interests include backscatter networking and wireless sensing.
 - *2024.06*: &nbsp;🎉🎉 GPSense is accepted by MobiCom 2024. 
 - *2023.06*: &nbsp;🎉🎉 GPSMirror is accepted by MobiCom 2023. 
 
-# 📝 Selected Publications <small>* mark as Coprimary authors.</small>
+# 📝 Selected Publications <sub><small>* mark as Coprimary authors.</small></sub>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom'24</div></div></div>
 <div class='paper-box-text' markdown="1">
