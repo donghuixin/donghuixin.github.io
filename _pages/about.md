@@ -31,7 +31,7 @@ My research interests include backscatter networking and wireless sensing.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom'24</div></div></div>
 <div class='paper-box-text' markdown="1">
-[GPSense: Passive Sensing with Pervasive GPS Signals](https://dl.acm.org/doi/10.1145/3636534.3690674)  📑[PDF](https://metaiot.group/publication/paper/mobicom24-GPSense.pdf) 📝 [Demo](https://dl.acm.org/doi/10.1145/3636534.3698836) 🎬 [Video](https://dl.acm.org/doi/10.1145/3636534.3698836)
+[GPSense: Passive Sensing with Pervasive GPS Signals](https://dl.acm.org/doi/10.1145/3636534.3690674)  📑[PDF](https://metaiot.group/publication/paper/mobicom24-GPSense.pdf) 📝 [Demo](https://dl.acm.org/doi/10.1145/3636534.3698836) 🎬 [Video](https://cdn.metaiot.group/metaiot/video/Mobicom24Demo.mp4)
 
 **Huixin Dong**\*, Minhao Cui\*, Ning Wang, Lili Qiu, Jie Xiong and Wei Wang
 </div>
