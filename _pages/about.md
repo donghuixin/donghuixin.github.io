@@ -85,6 +85,7 @@ Qianyi Huang, Guochao Song, Wei Wang, **Huixin Dong**, Jin Zhang and Qian Zhang
 - *2024.01* Student Academic Rising Star in HUST, 2024. 
 
 # 📖 Academic Services
+- Reviewer of ACM IMWUT, 2024
 - Artifact Evaluation Committee of ACM SenSys 2024
 - Reviewer of IEEE/ACM Transactions on Networking, 2024
 - Reviewer of IEEE Transactions on Mobile Computing, 2024
