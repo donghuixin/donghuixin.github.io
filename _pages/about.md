@@ -23,6 +23,7 @@ My research interests include backscatter networking and wireless sensing.
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 PassiveBLE is accepted by MobiCom 2025. 
 - *2024.06*: &nbsp;🎉🎉 GPSense is accepted by MobiCom 2024. 
 - *2023.06*: &nbsp;🎉🎉 GPSMirror is accepted by MobiCom 2023. 
 
