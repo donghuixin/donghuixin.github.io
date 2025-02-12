@@ -24,7 +24,7 @@ My research interests include backscatter networking and wireless sensing.
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 PassiveBLE is accepted by MobiCom 2025.
-- *2024.06*: &nbsp;🎉🎉 TuniScatter is awarded Best Paper in RFCom 2024. 
+- *2024.06*: &nbsp;🎉🎉 TuniScatter is awarded as ``Best Paper'' in RFCom 2024. 
 - *2024.06*: &nbsp;🎉🎉 GPSense is accepted by MobiCom 2024. 
 - *2023.06*: &nbsp;🎉🎉 GPSMirror is accepted by MobiCom 2023. 
 
@@ -89,7 +89,7 @@ Qianyi Huang, Guochao Song, Wei Wang, **Huixin Dong**, Jin Zhang and Qian Zhang
 
 
 # 🎖 Honors and Awards
-- *2024.11* Best Paper Awards in RFCom'24.
+- *2024.11* Best Paper Award in RFCom'24.
 - *2024.10* ACM MobiCom Student Travel Grant.
 - *2024.10* Second Prize in Ubiquitous Intelligent Sensing Technology Competition.
 - *2024.01* Student Academic Rising Star in HUST, 2024. 
