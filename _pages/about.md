@@ -31,6 +31,14 @@ My research interests include backscatter networking and wireless sensing.
 # 📝 Selected Publications 
 <sub><small>(Note: '*' marks co-primary authors.)</small></sub>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom'25</div></div></div>
+<div class='paper-box-text' markdown="1">
+[PassiveBLE: Towards Fully Commodity-Compatible BLE Backscatter](https://dl.acm.org/doi/10.1145/3636534.3690674)  📑[PDF](https://academic.huixin.space)
+
+**Huixin Dong**, Yijie Wu, Feiyu Li, Wei Kuang, Yuan He, Qian Zhang and Wei Wang
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom'24</div></div></div>
 <div class='paper-box-text' markdown="1">
 [GPSense: Passive Sensing with Pervasive GPS Signals](https://dl.acm.org/doi/10.1145/3636534.3690674)  📑[PDF](https://metaiot.group/publication/paper/mobicom24-GPSense.pdf) 📝 [Demo](https://dl.acm.org/doi/10.1145/3636534.3698836) 🎬 [Video](https://cdn.metaiot.group/metaiot/video/Mobicom24Demo.mp4)
