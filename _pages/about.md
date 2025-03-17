@@ -33,7 +33,7 @@ My research interests include backscatter networking and wireless sensing.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom'25</div></div></div>
 <div class='paper-box-text' markdown="1">
-[PassiveBLE: Towards Fully Commodity-Compatible BLE Backscatter](https://dl.acm.org/doi/10.1145/3636534.3690674)  📑[PDF](https://academic.huixin.space)
+[PassiveBLE: Towards Fully Commodity-Compatible BLE Backscatter](https://arxiv.org/pdf/2503.11490)  📑[PDF](https://arxiv.org/pdf/2503.11490)
 
 **Huixin Dong**, Yijie Wu, Feiyu Li, Wei Kuang, Yuan He, Qian Zhang and Wei Wang
 </div>
