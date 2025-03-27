@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Huixin Dong 董慧鑫"
-description              : "Ph.D. Candidate @ HUST"
+description              : "Postdoctoral research fellow"
 repository               : "donghuixin.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Huixin Dong 董慧鑫"
   avatar           : "images/avatar.png"
-  bio              : "Huazhong University of Science and Technology (HUST)"
+  bio              : "Hong Kong University of Science and Technology (HKUST)"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
