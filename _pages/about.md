@@ -23,6 +23,7 @@ My research interests include backscatter networking and wireless sensing.
 
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 I have passed the Ph.D thesis defence.
 - *2024.12*: &nbsp;🎉🎉 PassiveBLE is accepted by MobiCom 2025.
 - *2024.06*: &nbsp;🎉🎉 TuniScatter is awarded as ''Best Paper'' in RFCom 2024. 
 - *2024.06*: &nbsp;🎉🎉 GPSense is accepted by MobiCom 2024. 
