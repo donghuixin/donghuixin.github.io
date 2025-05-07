@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # ⛪ About me
-I obtain doctor degree in [MetaIoT Lab](https://metaiot.group/) at Huazhong University of Science and Technology (HUST) under the supervision of Prof. [Wei Wang](https://weiwang.cslee.cc/). I collaborate closely with Prof. [Jie Xiong](https://people.cs.umass.edu/~jxiong/) and Prof. [Lili Qiu](https://www.microsoft.com/en-us/research/people/liliqiu/) at Microsoft Research Asia (MSRA) on GPS sensing.
+I am a Ph.D. Candidate in [MetaIoT Lab](https://metaiot.group/) at Huazhong University of Science and Technology (HUST) under the supervision of Prof. [Wei Wang](https://weiwang.cslee.cc/). I collaborate closely with Prof. [Jie Xiong](https://people.cs.umass.edu/~jxiong/) and Prof. [Lili Qiu](https://www.microsoft.com/en-us/research/people/liliqiu/) at Microsoft Research Asia (MSRA) on GPS sensing.
 
 My research interests include backscatter networking and wireless sensing. 
 
