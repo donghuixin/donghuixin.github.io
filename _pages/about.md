@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # ⛪ About me
-I am a postdoctoral researcher in the research group led by Prof. [Qian Zhang](https://www.cse.ust.hk/~qianzh/) at The Hong Kong University of Science and Technology. Previously, I was a Ph.D. Candidate in [MetaIoT Lab](https://metaiot.group/) at Huazhong University of Science and Technology (HUST) under the supervision of Prof. [Wei Wang](https://weiwang.cslee.cc/). I collaborate closely with Prof. [Jie Xiong](https://people.cs.umass.edu/~jxiong/) and Prof. [Lili Qiu](https://www.microsoft.com/en-us/research/people/liliqiu/) at Microsoft Research Asia (MSRA) on GPS sensing.
+I am a postdoctoral researcher in the research group led by Prof. [Qian Zhang](https://www.cse.ust.hk/~qianzh/) at The Hong Kong University of Science and Technology. Previously, I obtained the PhD degree in [MetaIoT Lab](https://metaiot.group/) at Huazhong University of Science and Technology (HUST) under the supervision of Prof. [Wei Wang](https://weiwang.cslee.cc/). 
 
-My research interests include backscatter networking and wireless sensing. 
+My research interests include backscatter networking and wireless sensing. I also collaborate closely with Prof. [Jie Xiong](https://people.cs.umass.edu/~jxiong/) and Prof. [Lili Qiu](https://www.microsoft.com/en-us/research/people/liliqiu/) at Microsoft Research Asia (MSRA) on GPS sensing.
 
 
 # 🔥 News
