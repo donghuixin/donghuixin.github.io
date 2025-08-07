@@ -110,5 +110,9 @@ Qianyi Huang, Guochao Song, Wei Wang, **Huixin Dong**, Jin Zhang and Qian Zhang
 - *2024.11*, Workshop paper presentation (TuniScatter), ACM SenSys workshop 2024 in Hangzhou, China.
 - *2023.10*, Conference paper presentation (GPSMirror), ACM MobiCom 2023 in Madrid, Spain.
 
-# 💻 Internships
+# 💻 Experience
+- *2025.03 - 2025.08*, Wuhan University, Research Assistant, Wuhan, China.
 - *2020.05 - 2020.08*, Peng Cheng Laboratory, mentored by [Qianyi Huang](https://huangqy89.github.io/), Shenzhen, China.
+- *2020.09 - 2025.06*, Huazhong University of Science and Technology, PhD., Information and Communication Engineering, Wuhan, China.
+- *2018.09 - 2020.06*, Huazhong University of Science and Technology, M.S., Information and Communication Engineering, Wuhan, China.
+- *2014.09 - 2018.06*, Wuhan University of Technology, B.E., Communication Engineering, Wuhan, China.
