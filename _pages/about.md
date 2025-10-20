@@ -23,14 +23,6 @@ My research interests include backscatter networking and wireless sensing. I als
 
 My HUST email account has been revoked. Kindly use my Gmail address for future correspondence.
 
-# 💻 Experience
-- *2025.08 - Now*, The Hong Kong University of Science and Technology, Postdoc, Hong Kong, China.
-- *2025.03 - 2025.08*, Wuhan University, Research Assistant, Wuhan, China.
-- *2020.05 - 2020.08*, Peng Cheng Laboratory, mentored by [Qianyi Huang](https://huangqy89.github.io/), Shenzhen, China.
-- *2020.09 - 2025.06*, Huazhong University of Science and Technology, Ph.D., Information and Communication Engineering, Wuhan, China.
-- *2018.09 - 2020.06*, Huazhong University of Science and Technology, M.S., Information and Communication Engineering, Wuhan, China.
-- *2014.09 - 2018.06*, Wuhan University of Technology, B.E., Communication Engineering, Wuhan, China.
-
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 I am excited to be awarded the ACM SIGBED China Doctoral Dissertation Award (优博奖)!
 - *2025.06*: &nbsp;🎉🎉 GPSoil is accepted by MobiCom 2025.
@@ -136,4 +128,11 @@ Qianyi Huang, Guochao Song, Wei Wang, **Huixin Dong**, Jin Zhang and Qian Zhang
 - *2024.11*, Workshop paper presentation (TuniScatter), ACM SenSys workshop 2024 in Hangzhou, China.
 - *2023.10*, Conference paper presentation (GPSMirror), ACM MobiCom 2023 in Madrid, Spain.
 
+# 💻 Experience
+- *2025.08 - Now*, The Hong Kong University of Science and Technology, Postdoc, Hong Kong, China.
+- *2025.03 - 2025.08*, Wuhan University, Research Assistant, Wuhan, China.
+- *2020.05 - 2020.08*, Peng Cheng Laboratory, mentored by [Qianyi Huang](https://huangqy89.github.io/), Shenzhen, China.
+- *2020.09 - 2025.06*, Huazhong University of Science and Technology, Ph.D., Information and Communication Engineering, Wuhan, China.
+- *2018.09 - 2020.06*, Huazhong University of Science and Technology, M.S., Information and Communication Engineering, Wuhan, China.
+- *2014.09 - 2018.06*, Wuhan University of Technology, B.E., Communication Engineering, Wuhan, China.
 
