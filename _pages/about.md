@@ -23,7 +23,7 @@ My research interests include backscatter networking and wireless sensing. I als
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 I am excited to be awarded the ACM SIGBED China Doctoral Dissertation Award (优博奖) by ACM SIGBED China!
+- *2025.09*: &nbsp;🎉🎉 I am excited to be awarded the ACM SIGBED China Doctoral Dissertation Award (优博奖)!
 - *2025.06*: &nbsp;🎉🎉 GPSoil is accepted by MobiCom 2025.
 - *2025.03*: &nbsp;🎉🎉 Pass the final defense at HUST!
 - *2024.12*: &nbsp;🎉🎉 PassiveBLE is accepted by MobiCom 2025.
@@ -33,6 +33,20 @@ My research interests include backscatter networking and wireless sensing. I als
 
 # 📝 Selected Publications 
 <sub><small>(Note: '*' marks co-primary authors.)</small></sub>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom'25</div></div></div>
+<div class='paper-box-text' markdown="1">
+[Towards low-cost soil moisture sensing using GNSS signals](https://arxiv.org/pdf/2503.11490) 📑[PDF](https://arxiv.org/pdf/2503.11490)
+
+**Huixin Dong**, Jingqi Lin, Minhao Cui, Serene Zhang, Lili Qiu, Jie Xiong, Wei Wang 
+</div>
+</div>
+
+
+
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom'25</div></div></div>
 <div class='paper-box-text' markdown="1">
@@ -92,6 +106,7 @@ Qianyi Huang, Guochao Song, Wei Wang, **Huixin Dong**, Jin Zhang and Qian Zhang
 
 
 # 🎖 Honors and Awards
+- *2025.09* ACM SIGBED China Doctoral Dissertation Award (优博奖).
 - *2024.11* Best Paper Award in RFCom'24.
 - *2024.10* ACM MobiCom Student Travel Grant.
 - *2024.10* Second Prize in Ubiquitous Intelligent Sensing Technology Competition.
