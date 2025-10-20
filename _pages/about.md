@@ -23,6 +23,8 @@ My research interests include backscatter networking and wireless sensing. I als
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 I am excited to be awarded the ACM SIGBED China Doctoral Dissertation Award (优博奖) by ACM SIGBED China!
+- *2025.06*: &nbsp;🎉🎉 GPSoil is accepted by MobiCom 2025.
 - *2025.03*: &nbsp;🎉🎉 Pass the final defense at HUST!
 - *2024.12*: &nbsp;🎉🎉 PassiveBLE is accepted by MobiCom 2025.
 - *2024.06*: &nbsp;🎉🎉 TuniScatter is awarded as ''Best Paper'' in RFCom 2024. 
