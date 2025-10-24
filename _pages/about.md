@@ -97,13 +97,12 @@ Shiyue He, Wenyuan Ma, **Huixin Dong**, Lixia Xiao and Tao Jiang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ'20</div></div></div>
-<div class='paper-box-text' markdown="1">
-[FreeScatter: Enabling concurrent backscatter communication using antenna arrays](https://huangqy7.github.io/Paper/FreeScatter.pdf)
-
-Qianyi Huang, Guochao Song, Wei Wang, **Huixin Dong**, Jin Zhang and Qian Zhang
-</div>
-</div>
+% <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ'20</div></div></div> 
+% <div class='paper-box-text' markdown="1">
+% [FreeScatter: Enabling concurrent backscatter communication using antenna arrays](https://huangqy7.github.io/Paper/FreeScatter.pdf)
+% Qianyi Huang, Guochao Song, Wei Wang, **Huixin Dong**, Jin Zhang and Qian Zhang
+% </div>
+% </div>
 
 
 # 🎖 Honors and Awards
