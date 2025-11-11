@@ -123,6 +123,7 @@ Shiyue He, Wenyuan Ma, **Huixin Dong**, Lixia Xiao and Tao Jiang
 
 
 # 💬 Talks
+- *2025.11*, Conference paper presentation (PassiveBLE and GPSoil), ACM MobiCom 2025 in Hong Kong, China.
 - *2024.11*, Conference paper presentation (GPSense), ACM MobiCom 2024 in Washington, D.C, USA.
 - *2024.11*, Workshop paper presentation (TuniScatter), ACM SenSys workshop 2024 in Hangzhou, China.
 - *2023.10*, Conference paper presentation (GPSMirror), ACM MobiCom 2023 in Madrid, Spain.
