@@ -110,6 +110,8 @@ Shiyue He, Wenyuan Ma, **Huixin Dong**, Lixia Xiao and Tao Jiang
 - *2024.11* Best Paper Award in RFCom'24.
 - *2024.10* ACM MobiCom Student Travel Grant.
 - *2024.10* Second Prize in Ubiquitous Intelligent Sensing Technology Competition.
+- *2024.09* Huawei Postgraduate Scholarship.
+- *2024.09* "ZhiXing" Postgraduate Scholarship.
 - *2024.01* Student Academic Rising Star in HUST, 2024. 
 
 # 📖 Academic Services
