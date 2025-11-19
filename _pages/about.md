@@ -35,25 +35,20 @@ My HUST email account has been revoked. Kindly use my Gmail address for future c
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom'25</div></div></div>
 <div class='paper-box-text' markdown="1">
+[PassiveBLE: Towards Fully Commodity-Compatible BLE Backscatter](https://arxiv.org/pdf/2503.11490) 📑[PDF](https://arxiv.org/pdf/2503.11490)
+
+**Huixin Dong**, Yijie Wu, Feiyu Li, Wei Kuang, Yuan He, Qian Zhang and Wei Wang
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom'25</div></div></div>
+<div class='paper-box-text' markdown="1">
 [Towards low-cost soil moisture sensing using GNSS signals](https://arxiv.org/pdf/2503.11490) 📑[PDF](https://arxiv.org/pdf/2503.11490)
 
 **Huixin Dong**, Jingqi Lin, Minhao Cui, Serene Zhang, Lili Qiu, Jie Xiong, Wei Wang 
 </div>
 </div>
 
-
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom'25</div></div></div>
-<div class='paper-box-text' markdown="1">
-[PassiveBLE: Towards Fully Commodity-Compatible BLE Backscatter](https://arxiv.org/pdf/2503.11490) 📑[PDF](https://arxiv.org/pdf/2503.11490)
-
-**Huixin Dong**, Yijie Wu, Feiyu Li, Wei Kuang, Yuan He, Qian Zhang and Wei Wang
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom'24</div></div></div>
 <div class='paper-box-text' markdown="1">
