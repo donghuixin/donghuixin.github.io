@@ -22,6 +22,7 @@ I am a postdoctoral researcher in the research group led by Prof. [Qian Zhang](h
 My HUST email account has been revoked. Kindly use my Gmail address for future correspondence.
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 Vesta is accepted by Ubicomp 2026, see you in Shanghai!
 - *2026.03*: &nbsp;🎉🎉 I am excited that ACLGuard has been awarded the **Golden Prize** in the International Exhibition of Inventions Geneva!
 - *2025.09*: &nbsp;🎉🎉 I am excited to be awarded the ACM SIGBED China Doctoral Dissertation Award (优博奖)!
 - *2025.06*: &nbsp;🎉🎉 GPSoil is accepted by MobiCom 2025.
