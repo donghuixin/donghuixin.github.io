@@ -76,6 +76,16 @@ My HUST email account has been revoked. Kindly use my Gmail address for future c
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT/Ubicomp'26</div></div></div>
+<div class='paper-box-text' markdown="1">
+[VESTA: In-Vehicle Sensing with GNSS Satellite Signals](https://dl.acm.org/doi/10.1145/3570342)
+
+Ning Wang, **Huixin Dong**, Minhao Cui, Lili Qiu, Jie Xiong and Wei Wang
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ'24</div></div></div>
 <div class='paper-box-text' markdown="1">
 [Accurate Indoor Localization for Bluetooth Low Energy Backscatter](https://ieeexplore.ieee.org/document/10695776)
@@ -110,8 +120,8 @@ Shiyue He, Wenyuan Ma, **Huixin Dong**, Lixia Xiao and Tao Jiang
 - *2024.01* Student Academic Rising Star in HUST, 2024. 
 
 # 📖 Academic Services
-- Artifact Evaluation Committee of ACM MobiCom 2025
-- Artifact Evaluation Committee of ACM MobiSys 2025
+- Artifact Evaluation Committee of ACM MobiCom 2025,2026
+- Artifact Evaluation Committee of ACM MobiSys 2024,2025
 - Artifact Evaluation Committee of ACM SenSys 2024
 - Reviewer of ACM IMWUT 
 - Reviewer of IEEE/ACM Transactions on Networking 
