@@ -35,6 +35,14 @@ My HUST email account has been revoked. Kindly use my Gmail address for future c
 # 📝 Selected Publications 
 <sub><small>(Note: '*' marks co-primary authors.)</small></sub>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom'26</div></div></div>
+<div class='paper-box-text' markdown="1">
+AmbientRider: Infrastructure-Independent Ambient Backscatter
+
+**Huixin Dong**\*, Lingyun Jin\*, Renyi Zhi, Zhenkai Peng, Qian Zhang and Wei Wang
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom'25</div></div></div>
 <div class='paper-box-text' markdown="1">
 [PassiveBLE: Towards Fully Commodity-Compatible BLE Backscatter](https://arxiv.org/pdf/2503.11490) 📑[PDF](https://arxiv.org/pdf/2503.11490)
@@ -120,12 +128,14 @@ Shiyue He, Wenyuan Ma, **Huixin Dong**, Lixia Xiao and Tao Jiang
 - *2024.01* Student Academic Rising Star in HUST, 2024. 
 
 # 📖 Academic Services
-- Artifact Evaluation Committee of ACM MobiCom 2025,2026
-- Artifact Evaluation Committee of ACM MobiSys 2024,2025
+- Artifact Evaluation Committee of ACM MobiCom 2025, 2026
+- Artifact Evaluation Committee of ACM MobiSys 2024, 2025
 - Artifact Evaluation Committee of ACM SenSys 2024
-- Reviewer of ACM IMWUT 
+- Reviewer of ACM IMWUT 2026
 - Reviewer of IEEE/ACM Transactions on Networking 
-- Reviewer of IEEE Transactions on Mobile Computing 
+- Reviewer of IEEE Transactions on Mobile Computing (TMC) 2026
+- Reviewer of IEEE Transactions on Wireless Communications (TWC) 2026
+- Reviewer of IEEE Transactions on Communications (TCOM) 2026
 - Reviewer of IEEE Internet of Things Journal
 
 
@@ -142,4 +152,3 @@ Shiyue He, Wenyuan Ma, **Huixin Dong**, Lixia Xiao and Tao Jiang
 - *2020.09 - 2025.06*, Huazhong University of Science and Technology, Ph.D., Information and Communication Engineering, Wuhan, China.
 - *2018.09 - 2020.06*, Huazhong University of Science and Technology, M.S., Information and Communication Engineering, Wuhan, China.
 - *2014.09 - 2018.06*, Wuhan University of Technology, B.E., Communication Engineering, Wuhan, China.
-
