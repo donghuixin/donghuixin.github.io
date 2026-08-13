@@ -34,7 +34,7 @@ My HUST email account has been revoked. Kindly use my Gmail address for future c
 - *2023.06*: &nbsp;🎉🎉 GPSMirror is accepted by MobiCom 2023. 
 
 # 📝 Selected Publications 
-<sub><small>(Note: '*' marks co-primary authors.)</small></sub>
+<sub><small>(Note: '*' marks co-primary authors. "✉" marks the corresponding authors.)</small></sub>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom'26</div></div></div>
 <div class='paper-box-text' markdown="1">
