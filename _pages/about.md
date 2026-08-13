@@ -93,16 +93,6 @@ Ning Wang, **Huixin Dong**, Minhao Cui, Lili Qiu, Jie Xiong and Wei Wang
 </div>
 </div>
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ'24</div></div></div>
-<div class='paper-box-text' markdown="1">
-[Accurate Indoor Localization for Bluetooth Low Energy Backscatter](https://ieeexplore.ieee.org/document/10695776)
-
-Zhiqing Luo, Weiming Li, Yijie Wu, **Huixin Dong**  and Wei Wang
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT/Ubicomp'23</div></div></div>
 <div class='paper-box-text' markdown="1">
 [C-Cube: Rethinking distributed beamforming for concurrent charging in backscatter networks](https://dl.acm.org/doi/10.1145/3570342)
@@ -110,14 +100,6 @@ Zhiqing Luo, Weiming Li, Yijie Wu, **Huixin Dong**  and Wei Wang
 Shiyue He, Wenyuan Ma, **Huixin Dong**, Lixia Xiao and Tao Jiang
 </div>
 </div>
-
- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ'20</div></div></div> 
- <div class='paper-box-text' markdown="1">
- [FreeScatter: Enabling concurrent backscatter communication using antenna arrays](https://huangqy7.github.io/Paper/FreeScatter.pdf)
- Qianyi Huang, Guochao Song, Wei Wang, **Huixin Dong**, Jin Zhang and Qian Zhang
- </div>
- </div>
-
 
 # 🎖 Honors and Awards
 - *2025.09* ACM SIGBED China Doctoral Dissertation Award (优博奖).
