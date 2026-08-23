@@ -111,6 +111,7 @@ Shiyue He, Wenyuan Ma, **Huixin Dong**, Lixia Xiao and Tao Jiang
 - *2024.01* Student Academic Rising Star in HUST, 2024. 
 
 # 📖 Academic Services
+- Technical Program Committee (TPC) of IEEE ICPADS 2026
 - Artifact Evaluation Committee of ACM MobiCom 2025, 2026
 - Artifact Evaluation Committee of ACM MobiSys 2024, 2025
 - Artifact Evaluation Committee of ACM SenSys 2024
