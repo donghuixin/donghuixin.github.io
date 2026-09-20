@@ -130,7 +130,7 @@ Contact: [dxhuixin@gmail.com](mailto:dxhuixin@gmail.com) · [csedxhuixin@ust.hk]
   <div class="paper-box-text">
     <p class="publication-title">Reliable Battery-free Backscatter Video Transmission for Ubiquitous Vision-based Sensing</p>
     <p><strong>Huixin Dong</strong>, Xinyi Wu, Liu Yang, Xianan Zhang, Guochao Song, Wei Wang</p>
-    <p class="publication-note">ACM Transactions on Internet of Things · Published online August 10, 2026</p>
+    <p class="publication-note">ACM Transactions on Internet of Things · Just Accepted<br>Accepted July 5, 2026 · Accepted manuscript online August 10, 2026</p>
     <p class="publication-links"><a href="https://doi.org/10.1145/3837766">Paper</a></p>
   </div>
 </div>
