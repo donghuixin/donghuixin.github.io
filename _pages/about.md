@@ -45,6 +45,7 @@ Contact: [dxhuixin@gmail.com](mailto:dxhuixin@gmail.com) · [csedxhuixin@ust.hk]
 </div>
 <p class="publication-note">Note: ‘*’ marks co-primary authors. “✉” marks corresponding authors.</p>
 
+<div class="publication-list" id="publication-list" role="region" aria-label="Publications — scroll to view more" tabindex="0">
 <div class="paper-box publication-entry" data-selected="true">
   <div class="paper-box-image"><span class="badge">MobiCom 2026 (CCF A)</span></div>
   <div class="paper-box-text">
@@ -173,6 +174,8 @@ Contact: [dxhuixin@gmail.com](mailto:dxhuixin@gmail.com) · [csedxhuixin@ust.hk]
 
     <p class="publication-links"><a href="https://dl.acm.org/doi/10.1145/3636534.3698836">Paper</a></p>
   </div>
+</div>
+
 </div>
 
 <script src="/assets/js/publications.js" defer></script>

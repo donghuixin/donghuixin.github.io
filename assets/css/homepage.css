@@ -3,6 +3,8 @@
 .publication-filters { display: flex; flex-wrap: wrap; gap: .65rem; margin: 1rem 0; }
 .publication-filters button { padding: .45rem .9rem; border: 1px solid #0a6daf; border-radius: 4px; background: white; color: #075d94; cursor: pointer; font: inherit; font-size: .85em; }
 .publication-filters button[aria-pressed="true"] { color: white; background: #0a6daf; }
+.publication-list { max-height: var(--publication-list-height, 44rem); overflow-y: auto; scrollbar-gutter: stable; scrollbar-width: thin; scrollbar-color: #a9b8c3 #f5f7f9; }
+.publication-list:focus-visible { outline: 2px solid #0a6daf; outline-offset: 3px; }
 .publication-entry { display: grid; grid-template-columns: 175px minmax(0, 1fr); align-items: start; gap: 1.25rem; padding: 1rem 0; border-bottom: 1px solid #edf0f2; }
 .publication-entry .paper-box-image, .publication-entry .paper-box-text { display: block; width: auto; max-width: none; min-width: 0; padding: 0; order: initial; }
 .publication-entry .badge { display: block; min-width: 0; margin: 0; padding: .4rem .65rem; font-size: .73em; line-height: 1.5; }
@@ -21,6 +23,10 @@
 .reviewer-years { display: block; margin: .25rem 0 0 .9rem; color: #545e66; font-size: .9em; }
 a:focus-visible, button:focus-visible { outline: 2px solid #0a6daf; outline-offset: 3px; }
 @media (max-width: 600px) {
+  .publication-list { max-height: min(var(--publication-list-height, 44rem), 75vh); }
   .publication-entry { grid-template-columns: minmax(0, 1fr); gap: .6rem; }
   .publication-entry .badge { display: inline-block; }
+}
+@media print {
+  .publication-list { max-height: none; overflow: visible; }
 }
