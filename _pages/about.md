@@ -19,9 +19,7 @@ redirect_from:
 # ⛪ About me
 I am a postdoctoral researcher in the research group led by Prof. [Qian Zhang](https://www.cse.ust.hk/~qianzh/) at The Hong Kong University of Science and Technology. Previously, I obtained my Ph.D. degree in 2025 from Huazhong University of Science and Technology (HUST) under the supervision of Prof. [Wei Wang](https://cs.whu.edu.cn/info/1019/55961.htm) in [MetaIoT Lab](https://metaiot.group/).
 
-Contact: [dxhuixin@gmail.com](mailto:dxhuixin@gmail.com) · [csedxhuixin@ust.hk](mailto:csedxhuixin@ust.hk). My former HUST email is no longer active.
-
-[View the visual homepage ↗](https://academic.huixin.space/)
+My HUST email account has been revoked. Kindly use my Gmail address for future correspondence.
 
 <span class="anchor" id="news"></span>
 # 🔥 News
@@ -194,7 +192,7 @@ Contact: [dxhuixin@gmail.com](mailto:dxhuixin@gmail.com) · [csedxhuixin@ust.hk]
 <span class="anchor" id="services"></span>
 # 📖 Academic Services
 
-### Committee Member
+### Conference Committee Member
 - Technical Program Committee (TPC) of IEEE ICPADS 2026
 - Artifact Evaluation Committee of ACM MobiCom 2025, 2026
 - Artifact Evaluation Committee of ACM MobiSys 2024, 2025
