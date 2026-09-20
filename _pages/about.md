@@ -200,12 +200,12 @@ Contact: [dxhuixin@gmail.com](mailto:dxhuixin@gmail.com) · [csedxhuixin@ust.hk]
 ### Journal Reviewer
 
 <ul class="reviewer-list">
-  <li><span>IEEE Transactions on Mobile Computing (TMC)</span><span class="reviewer-years">2024, 2025, 2026</span></li>
-  <li><span>IEEE Internet of Things Journal (IoT-J)</span><span class="reviewer-years">2024, 2025</span></li>
-  <li><span>IEEE Transactions on Wireless Communications (TWC)</span><span class="reviewer-years">2026</span></li>
-  <li><span>IEEE Transactions on Communications (TCOM)</span><span class="reviewer-years">2026</span></li>
-  <li><span>ACM IMWUT</span><span class="reviewer-years">2023, 2024, 2025, 2026</span></li>
-  <li><span>IEEE/ACM Transactions on Networking (ToN)</span><span class="reviewer-years">2024, 2025</span></li>
+  <li><details><summary>IEEE Transactions on Mobile Computing (TMC)</summary><span class="reviewer-years">2024, 2025, 2026</span></details></li>
+  <li><details><summary>IEEE Internet of Things Journal (IoT-J)</summary><span class="reviewer-years">2024, 2025</span></details></li>
+  <li><details><summary>IEEE Transactions on Wireless Communications (TWC)</summary><span class="reviewer-years">2026</span></details></li>
+  <li><details><summary>IEEE Transactions on Communications (TCOM)</summary><span class="reviewer-years">2026</span></details></li>
+  <li><details><summary>ACM IMWUT</summary><span class="reviewer-years">2023, 2024, 2025, 2026</span></details></li>
+  <li><details><summary>IEEE/ACM Transactions on Networking (ToN)</summary><span class="reviewer-years">2024, 2025</span></details></li>
 </ul>
 
 

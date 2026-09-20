@@ -11,12 +11,16 @@
 .publication-links, .publication-note { font-size: .82em; }
 .publication-note { color: #545e66; }
 .reviewer-list { list-style: none; padding: 0; margin-left: 0; }
-.reviewer-list li { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 1.25rem; padding: .55rem 0; margin: 0; border-bottom: 1px solid #edf0f2; line-height: 1.5; }
-.reviewer-years { color: #545e66; white-space: nowrap; text-align: right; font-size: .85em; }
+.reviewer-list li { margin: 0 0 .5rem; line-height: 1.6; }
+.reviewer-list summary { display: flex; align-items: baseline; gap: .5rem; cursor: pointer; list-style: none; border-radius: 4px; }
+.reviewer-list summary::-webkit-details-marker { display: none; }
+.reviewer-list summary::before { content: ''; flex: 0 0 .4rem; width: .4rem; height: .6rem; background: #0a6daf; clip-path: polygon(0 0, 100% 50%, 0 100%); }
+.reviewer-list details[open] > summary::before { transform: rotate(90deg); }
+.reviewer-list summary:hover { color: #075d94; }
+.reviewer-list summary:focus-visible { outline: 2px solid #0a6daf; outline-offset: 3px; }
+.reviewer-years { display: block; margin: .25rem 0 0 .9rem; color: #545e66; font-size: .9em; }
 a:focus-visible, button:focus-visible { outline: 2px solid #0a6daf; outline-offset: 3px; }
 @media (max-width: 600px) {
   .publication-entry { grid-template-columns: minmax(0, 1fr); gap: .6rem; }
   .publication-entry .badge { display: inline-block; }
-  .reviewer-list li { grid-template-columns: minmax(0, 1fr); gap: .15rem; }
-  .reviewer-years { text-align: left; }
 }
