@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Huixin Dong 董慧鑫"
 description              : "Postdoc"
-repository               : "donghuixin.github.io"
+repository               : "donghuixin/donghuixin.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
