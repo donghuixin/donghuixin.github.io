@@ -136,7 +136,7 @@ Contact: [dxhuixin@gmail.com](mailto:dxhuixin@gmail.com) · [csedxhuixin@ust.hk]
 </div>
 
 <div class="paper-box publication-entry" data-selected="false" hidden>
-  <div class="paper-box-image"><span class="badge">IEEE IoT-J 2025</span></div>
+  <div class="paper-box-image"><span class="badge" title="JCR Q1: 2024 data, released June 2025. Source: IEEE Title List, January 2026.">IEEE IoT-J 2025 (JCR Q1)</span></div>
   <div class="paper-box-text">
     <p class="publication-title">Accurate Indoor Localization for Bluetooth Low Energy Backscatter</p>
     <p>Zhiqing Luo, Weiming Li, Yijie Wu, <strong>Huixin Dong</strong>, Luanjian Bian, Wei Wang</p>
@@ -146,7 +146,7 @@ Contact: [dxhuixin@gmail.com](mailto:dxhuixin@gmail.com) · [csedxhuixin@ust.hk]
 </div>
 
 <div class="paper-box publication-entry" data-selected="false" hidden>
-  <div class="paper-box-image"><span class="badge">IEEE IoT-J 2020</span></div>
+  <div class="paper-box-image"><span class="badge" title="JCR Q1: 2024 data, released June 2025. Source: IEEE Title List, January 2026.">IEEE IoT-J 2020 (JCR Q1)</span></div>
   <div class="paper-box-text">
     <p class="publication-title">FreeScatter: Enabling concurrent backscatter communication using antenna arrays</p>
     <p>Qianyi Huang, Guochao Song, Wei Wang, <strong>Huixin Dong</strong>, Jin Zhang, Qian Zhang</p>
@@ -156,7 +156,7 @@ Contact: [dxhuixin@gmail.com](mailto:dxhuixin@gmail.com) · [csedxhuixin@ust.hk]
 </div>
 
 <div class="paper-box publication-entry" data-selected="false" hidden>
-  <div class="paper-box-image"><span class="badge">IEEE TVT 2023</span></div>
+  <div class="paper-box-image"><span class="badge" title="JCR Q1: 2024 data, released June 2025. Source: IEEE Title List, January 2026.">IEEE TVT 2023 (JCR Q1)</span></div>
   <div class="paper-box-text">
     <p class="publication-title">WiSion: Bolstering MAV 3D indoor state estimation by embracing multipath of WiFi</p>
     <p>Fei Xiao, Shengkai Zhang, Sheyang Tang, Shaojie Shen, <strong>Huixin Dong</strong>, Yi Zhong</p>
