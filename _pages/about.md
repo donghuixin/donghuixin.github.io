@@ -181,6 +181,7 @@ My HUST email account has been revoked. Kindly use my Gmail address for future c
 
 <span class="anchor" id="awards"></span>
 # 🎖 Honors and Awards
+- *2026.03* Golden Prize, International Exhibition of Inventions Geneva (ACLGuard).
 - *2025.09* ACM SIGBED China Doctoral Dissertation Award (优博奖).
 - *2024.11* Best Paper Award in RFCom'24.
 - *2024.10* ACM MobiCom Student Travel Grant.
