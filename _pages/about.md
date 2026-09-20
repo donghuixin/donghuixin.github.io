@@ -47,7 +47,7 @@ My HUST email account has been revoked. Kindly use my Gmail address for future c
 <div class="paper-box publication-entry" data-selected="true">
   <div class="paper-box-image"><span class="badge">MobiCom 2026 (CCF A)</span></div>
   <div class="paper-box-text">
-    <p class="publication-title">AmbientRider: Infrastructure-Independent Ambient Backscatter</p>
+    <p class="publication-title">AmbientRider: Towards Infrastructure-Independent Ambient Backscatter</p>
     <p><strong>Huixin Dong</strong>*, Lingyun Jin*, Renyi Zhi, Zhenkai Peng, Qian Zhang, Wei Wang</p>
 
     <p class="publication-links"></p>
