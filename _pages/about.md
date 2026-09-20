@@ -213,7 +213,9 @@ My HUST email account has been revoked. Kindly use my Gmail address for future c
 
 <span class="anchor" id="talks"></span>
 # 💬 Talks
+- *2025.11.30*, "Low-Power, High-Performance Backscatter for RF Computing", Rising Star & Best Dissertation Forum, [Embedded Intelligence Summit (EIS) 2025](https://www.embedded-ai.org/2025/index.html) in Zhengzhou, China. [Program](https://www.embedded-ai.org/2025/schedule.html).
 - *2025.11*, Conference paper presentation (PassiveBLE and GPSoil), ACM MobiCom 2025 in Hong Kong, China.
+- *2025.08.24*, "GPSense: Passive Sensing with Pervasive GPS Signals", [PCC Top Conference and Journal Paper Session](https://hhme.ccf.org.cn/history/2025/PCC_top_paper.html), HHME & HMCC 2025 in Dalian, China.
 - *2024.11*, Conference paper presentation (GPSense), ACM MobiCom 2024 in Washington, D.C, USA.
 - *2024.11*, Workshop paper presentation (TuniScatter), ACM SenSys workshop 2024 in Hangzhou, China.
 - *2023.10*, Conference paper presentation (GPSMirror), ACM MobiCom 2023 in Madrid, Spain.
