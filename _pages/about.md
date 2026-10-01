@@ -24,7 +24,7 @@ My HUST email account has been revoked. Kindly use my Gmail address for future c
 <span class="anchor" id="news"></span>
 # 🔥 News
 - *2026.08*: &nbsp;🎉🎉 AmbientRider is accepted by MobiCom 2026. See you in Austin, TX!
-- *2026.06*: &nbsp;🎉🎉 VESTA is accepted by UbiComp 2026, see you in Shanghai!
+- *2026.06*: &nbsp;🎉🎉 [VESTA](https://doi.org/10.1145/3831995) is accepted by UbiComp 2026, see you in Shanghai!
 - *2026.03*: &nbsp;🎉🎉 I am excited that ACLGuard has been awarded the **Golden Prize** in the International Exhibition of Inventions Geneva!
 - *2025.09*: &nbsp;🎉🎉 I am excited to be awarded the ACM SIGBED China Doctoral Dissertation Award (优博奖)!
 - *2025.06*: &nbsp;🎉🎉 GPSoil is accepted by MobiCom 2025.
@@ -110,7 +110,7 @@ My HUST email account has been revoked. Kindly use my Gmail address for future c
     <p class="publication-title">VESTA: In-Vehicle Sensing with GNSS Satellite Signals</p>
     <p>Ning Wang, <strong>Huixin Dong</strong>, Minhao Cui, Lili Qiu, Jie Xiong and Wei Wang</p>
 
-    <p class="publication-links"></p>
+    <p class="publication-links"><a href="https://doi.org/10.1145/3831995">Paper</a></p>
   </div>
 </div>
 
