@@ -208,6 +208,7 @@ My HUST email account has been revoked. Kindly use my Gmail address for future c
   <li><details><summary>IEEE Transactions on Communications (TCOM)</summary><span class="reviewer-years">2026</span></details></li>
   <li><details><summary>ACM IMWUT</summary><span class="reviewer-years">2023, 2024, 2025, 2026</span></details></li>
   <li><details><summary>IEEE/ACM Transactions on Networking (ToN)</summary><span class="reviewer-years">2024, 2025</span></details></li>
+  <li><details><summary>IEEE Journal of Radio Frequency Identification (JRFID)</summary><span class="reviewer-years">2026</span></details></li>
 </ul>
 
 
