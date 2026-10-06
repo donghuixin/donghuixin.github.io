@@ -7,7 +7,7 @@ author_profile: true
 
 <div class="travel-page">
 
-<div class="travel-kicker"><span class="travel-rule"></span><b>Travel</b><span class="travel-rule"></span></div>
+<p class="travel-kicker">Travel</p>
 
 <p class="travel-lead">I’ve always believed that travel brings us closer to ourselves. Research is how I make that journey: across an ocean of thought, into conversation with minds across centuries, and through conferences, into the world. The curiosity that draws me to the hopes and disappointments hidden in old papers also makes me linger before a statue, imagining the thoughts and lives of those who shaped it.</p>
 
