@@ -19,3 +19,6 @@ main:
 
   - title: "Experience"
     url: "/#experience"
+
+  - title: "Travel"
+    url: "/travel/"

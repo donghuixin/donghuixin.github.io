@@ -29,3 +29,24 @@ a:focus-visible, button:focus-visible { outline: 2px solid #0a6daf; outline-offs
 @media print {
   .publication-list { max-height: none; overflow: visible; }
 }
+
+/* Travel page: a quiet, typographic interlude. */
+.travel-page { max-width: 42rem; margin: 0 auto; padding: .5rem 0 3rem; }
+.travel-page .travel-kicker { display: flex; align-items: center; gap: 1.1rem; margin: 0 0 2.6rem; font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.3rem; font-weight: 500; letter-spacing: .42em; text-transform: uppercase; color: #0a6daf; }
+.travel-page .travel-kicker b { font-weight: 500; padding-left: .42em; }
+.travel-page .travel-rule { flex: 1; height: 1px; }
+.travel-page .travel-rule:first-child { background: linear-gradient(90deg, rgba(10, 109, 175, 0), rgba(10, 109, 175, .42)); }
+.travel-page .travel-rule:last-child { background: linear-gradient(90deg, rgba(10, 109, 175, .42), rgba(10, 109, 175, 0)); }
+.travel-page .travel-lead { margin: 0; font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.32rem; line-height: 1.95; color: #27303c; }
+.travel-page .travel-lead::first-letter { float: left; padding: .06em .1em 0 0; font-size: 3.4em; font-weight: 500; line-height: .78; color: #0a6daf; }
+.travel-page .travel-ornament { display: block; width: 132px; height: 11px; margin: 2.8rem auto; }
+.travel-page .travel-poem { margin: 0; padding: 0; border: 0; text-align: center; }
+.travel-page .travel-poem p { margin: 0 0 1.5rem; font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: 1.6rem; line-height: 1.8; color: #1b2430; }
+.travel-page .travel-poem cite { display: block; font-family: inherit; font-style: normal; font-size: .72rem; letter-spacing: .18em; text-transform: uppercase; color: #545e66; }
+.travel-page .travel-coda { margin: 0; font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: 1.36rem; line-height: 1.9; color: #27303c; text-align: center; }
+@media (max-width: 600px) {
+  .travel-page .travel-kicker { font-size: 1.05rem; letter-spacing: .32em; margin-bottom: 1.9rem; }
+  .travel-page .travel-lead { font-size: 1.16rem; line-height: 1.8; }
+  .travel-page .travel-poem p { font-size: 1.34rem; }
+  .travel-page .travel-coda { font-size: 1.18rem; }
+}
