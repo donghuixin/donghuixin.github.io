@@ -50,3 +50,118 @@ a:focus-visible, button:focus-visible { outline: 2px solid #0a6daf; outline-offs
   .travel-page .travel-poem p { font-size: 1.34rem; }
   .travel-page .travel-coda { font-size: 1.18rem; }
 }
+
+/* ---------------------------------------------------------------------------
+   Sidebar profile card.
+   The stock theme gives the sidebar 15.25% of a 925px container (~141px) while
+   keeping body text at 1em, so every line breaks after a few characters.
+   Rebalance the column split, then rebuild the card's visual hierarchy:
+   avatar -> serif name -> accent rule -> affiliation -> role -> place -> links.
+   --------------------------------------------------------------------------- */
+@media (min-width: 57.8125em) {
+  .sidebar { width: 21%; margin-right: 2%; }
+  .page { width: 77%; padding-left: 3.5%; }
+}
+
+.sidebar .profile_box {
+  padding: 1.35rem 1.15rem 1.25rem;
+  border: 1px solid #e6ebf0;
+  border-radius: 14px;
+  background: #fff;
+  box-shadow: 0 1px 2px rgba(16, 32, 48, .04), 0 10px 26px -20px rgba(16, 32, 48, .28);
+}
+.sidebar .author__avatar { flex: 0 0 auto; width: auto; }
+.sidebar .author__avatar img {
+  display: block;
+  width: clamp(112px, 55%, 148px);
+  height: auto;
+  min-width: 0;
+  max-width: none;
+  aspect-ratio: 1 / 1;
+  margin: 0 auto;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 0 0 1px #e6ebf0, 0 0 0 6px rgba(10, 109, 175, .09);
+}
+.sidebar .author__name {
+  margin: .95rem 0 0;
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.18;
+  letter-spacing: .005em;
+  color: #16202b;
+}
+.sidebar .author__name::after {
+  content: '';
+  display: block;
+  width: 30px;
+  height: 3px;
+  margin: .7rem auto 0;
+  border-radius: 2px;
+  background: linear-gradient(90deg, #0a6daf, #5fb0dd);
+}
+.sidebar .author__bio {
+  margin: .8rem 0 0;
+  font-family: inherit;
+  font-size: .86rem;
+  line-height: 1.55;
+  color: #545e66;
+}
+.sidebar .author__content { line-height: 1.35; }
+.sidebar .author__urls-wrapper, .sidebar .author__urls { cursor: default; }
+.sidebar .author__urls { margin-top: 1rem; }
+.sidebar .author__urls > li {
+  padding: .28rem 0;
+  font-size: .82rem;
+  line-height: 1.5;
+  color: #545e66;
+  text-align: left;
+}
+.sidebar .author__urls > li > i {
+  width: 1.15rem;
+  margin-right: .3rem;
+  color: #0a6daf;
+  text-align: center;
+}
+.sidebar .author__urls > li > div {
+  margin: 0 0 .35rem !important;
+  font-size: .74rem;
+  font-weight: 500;
+  letter-spacing: .18em;
+  text-transform: uppercase;
+  color: #0a6daf;
+}
+.sidebar .author__urls > li + li { margin-top: .42rem; }
+.sidebar .author__urls > li > a {
+  display: flex;
+  align-items: center;
+  margin: 0;
+  padding: .5rem .72rem;
+  border: 1px solid rgba(10, 109, 175, .22);
+  border-radius: 9px;
+  background: rgba(10, 109, 175, .055);
+  color: #075d94;
+  font-size: .82rem;
+  font-weight: 500;
+  line-height: 1.2;
+  text-decoration: none;
+  transition: background .22s ease, border-color .22s ease, color .22s ease, transform .22s ease;
+}
+.sidebar .author__urls > li > a i { width: 1.15rem; margin-right: .45rem; text-align: center; }
+.sidebar .author__urls > li > a:hover,
+.sidebar .author__urls > li > a:focus-visible {
+  background: #0a6daf;
+  border-color: #0a6daf;
+  color: #fff;
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+.sidebar .author__urls_sm a { padding: 0 .22rem; color: #0a6daf; text-decoration: none; }
+.sidebar .author__urls_sm a:hover { color: #075d94; }
+@media (min-width: 57.8125em) {
+  .sidebar .profile_box { text-align: center; }
+  .sidebar .author__avatar { display: block; }
+}
