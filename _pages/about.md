@@ -60,7 +60,7 @@ My HUST email account has been revoked. Kindly use my Gmail address for future c
     <p class="publication-title">PassiveBLE: Towards Fully Commodity-Compatible BLE Backscatter</p>
     <p><strong>Huixin Dong</strong>, Yijie Wu, Feiyu Li, Wei Kuang, Yuan He, Qian Zhang, Wei Wang</p>
 
-    <p class="publication-links"><a href="https://dl.acm.org/doi/10.1145/3680207.3723465">Paper</a> · <a href="https://arxiv.org/pdf/2503.11490">PDF</a></p>
+    <p class="publication-links"><a href="https://dl.acm.org/doi/10.1145/3680207.3723465">Paper</a> · <a href="https://cdn.metaiot.group/files/slides/MobiCom2025_PassiveBLE_slides.pdf">Slides</a> · <a href="https://arxiv.org/pdf/2503.11490">PDF</a></p>
   </div>
 </div>
 
@@ -70,7 +70,7 @@ My HUST email account has been revoked. Kindly use my Gmail address for future c
     <p class="publication-title">GPSoil: Towards low-cost soil moisture sensing using GNSS signals</p>
     <p><strong>Huixin Dong</strong>, Jingqi Lin, Minhao Cui, Serene Zhang, Lili Qiu, Jie Xiong, Wei Wang</p>
 
-    <p class="publication-links"><a href="https://dl.acm.org/doi/10.1145/3680207.3765236">Paper</a></p>
+    <p class="publication-links"><a href="https://dl.acm.org/doi/10.1145/3680207.3765236">Paper</a> · <a href="https://cdn.metaiot.group/files/slides/MobiCom2025_GPSoil_slides.pdf">Slides</a></p>
   </div>
 </div>
 
