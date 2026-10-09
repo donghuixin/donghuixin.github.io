@@ -50,7 +50,7 @@ My HUST email account has been revoked. Kindly use my Gmail address for future c
     <p class="publication-title">AmbientRider: Towards Infrastructure-Independent Ambient Backscatter</p>
     <p><strong>Huixin Dong</strong>*, Lingyun Jin*, Renyi Zhi, Zhenkai Peng, Qian Zhang, Wei Wang</p>
 
-    <p class="publication-links"></p>
+    <p class="publication-links"><a href="https://drive.google.com/file/d/1eZPYbVfQvK53UAK8T_noW9lRQZ_0R6lP/view">Video</a></p>
   </div>
 </div>
 
