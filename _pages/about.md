@@ -85,7 +85,7 @@ My HUST email account has been revoked. Kindly use my Gmail address for future c
 </div>
 
 <div class="paper-box publication-entry" data-selected="true">
-  <div class="paper-box-image"><span class="badge">SenSys-RFCom 2024 (🏆 Best Paper)</span></div>
+  <div class="paper-box-image"><span class="badge">SenSys-RFCom 2024<br>(🏆 Best Paper)</span></div>
   <div class="paper-box-text">
     <p class="publication-title">A Unified Tunnel-diode Based Low Power Signal Waveform Transform Hardware for RF Computing</p>
     <p><strong>Huixin Dong</strong>, Liu Yang, Lehuan Yang, Zhiqing Luo, Chunshen Li, Xianan Zhang, Wei Wang</p>
