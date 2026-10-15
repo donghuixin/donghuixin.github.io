@@ -85,7 +85,7 @@ My HUST email account has been revoked. Kindly use my Gmail address for future c
 </div>
 
 <div class="paper-box publication-entry" data-selected="true">
-  <div class="paper-box-image"><span class="badge">SenSys-RFCom 2024</span></div>
+  <div class="paper-box-image"><span class="badge">SenSys-RFCom 2024 (🏆 Best Paper)</span></div>
   <div class="paper-box-text">
     <p class="publication-title">A Unified Tunnel-diode Based Low Power Signal Waveform Transform Hardware for RF Computing</p>
     <p><strong>Huixin Dong</strong>, Liu Yang, Lehuan Yang, Zhiqing Luo, Chunshen Li, Xianan Zhang, Wei Wang</p>
@@ -105,7 +105,7 @@ My HUST email account has been revoked. Kindly use my Gmail address for future c
 </div>
 
 <div class="paper-box publication-entry" data-selected="true">
-  <div class="paper-box-image"><span class="badge">IMWUT 2026 (CCF A)</span></div>
+  <div class="paper-box-image"><span class="badge" title="JCR Q1: 2025 data released June 2026.">IMWUT 2026 (CCF A, JCR Q1)</span></div>
   <div class="paper-box-text">
     <p class="publication-title">VESTA: In-Vehicle Sensing with GNSS Satellite Signals</p>
     <p>Ning Wang, <strong>Huixin Dong</strong>, Minhao Cui, Lili Qiu, Jie Xiong and Wei Wang</p>
@@ -115,7 +115,7 @@ My HUST email account has been revoked. Kindly use my Gmail address for future c
 </div>
 
 <div class="paper-box publication-entry" data-selected="true">
-  <div class="paper-box-image"><span class="badge">IMWUT 2022 / UbiComp 2023 (CCF A)</span></div>
+  <div class="paper-box-image"><span class="badge" title="JCR Q1: 2025 data released June 2026.">IMWUT 2022 / UbiComp 2023 (CCF A, JCR Q1)</span></div>
   <div class="paper-box-text">
     <p class="publication-title">C-Cube: Rethinking distributed beamforming for concurrent charging in backscatter networks</p>
     <p>Shiyue He, Wenyuan Ma, <strong>Huixin Dong</strong>, Lixia Xiao, Tao Jiang</p>
@@ -161,6 +161,16 @@ My HUST email account has been revoked. Kindly use my Gmail address for future c
     <p>Fei Xiao, Shengkai Zhang, Sheyang Tang, Shaojie Shen, <strong>Huixin Dong</strong>, Yi Zhong</p>
 
     <p class="publication-links"><a href="https://ieeexplore.ieee.org/document/9887902">Paper</a></p>
+  </div>
+</div>
+
+<div class="paper-box publication-entry" data-selected="false" hidden>
+  <div class="paper-box-image"><span class="badge" title="T1: CAST high-quality journal lists compiled by CCF and the China Institute of Communications; JCR Q2: 2025 data.">FITEE 2022 (T1, JCR Q2)</span></div>
+  <div class="paper-box-text">
+    <p class="publication-title">Ultra-low-power backscatter-based software-defined radio for intelligent and simplified IoT network</p>
+    <p><strong>Huixin Dong</strong>, Wei Kuang, Fei Xiao, Lihai Liu, Feng Xiang, Wei Wang, Jianhua He</p>
+    <p class="publication-note">Frontiers of Information Technology &amp; Electronic Engineering 23 (1), 19–30</p>
+    <p class="publication-links"><a href="https://doi.org/10.1631/FITEE.2100321">Paper</a></p>
   </div>
 </div>
 
