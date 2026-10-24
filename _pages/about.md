@@ -47,7 +47,7 @@ My HUST email account has been revoked. Kindly use my Gmail address for future c
 <div class="paper-box publication-entry" data-selected="true">
   <div class="paper-box-image"><span class="badge">MobiCom 2026 (CCF A)</span></div>
   <div class="paper-box-text">
-    <p class="publication-title">AmbientRider: Towards Infrastructure-Independent Ambient Backscatter</p>
+    <p class="publication-title">AmbientRider: Infrastructure-Independent Ambient Backscatter</p>
     <p><strong>Huixin Dong</strong>*, Lingyun Jin*, Renyi Zhi, Zhenkai Peng, Qian Zhang, Wei Wang</p>
 
     <p class="publication-links"><a href="https://drive.google.com/file/d/1eZPYbVfQvK53UAK8T_noW9lRQZ_0R6lP/view">Video</a></p>
@@ -57,7 +57,7 @@ My HUST email account has been revoked. Kindly use my Gmail address for future c
 <div class="paper-box publication-entry" data-selected="true">
   <div class="paper-box-image"><span class="badge">MobiCom 2025 (CCF A)</span></div>
   <div class="paper-box-text">
-    <p class="publication-title">PassiveBLE: Towards Fully Commodity-Compatible BLE Backscatter</p>
+    <p class="publication-title">PassiveBLE: Fully Commodity-Compatible BLE Backscatter</p>
     <p><strong>Huixin Dong</strong>, Yijie Wu, Feiyu Li, Wei Kuang, Yuan He, Qian Zhang, Wei Wang</p>
 
     <p class="publication-links"><a href="https://dl.acm.org/doi/10.1145/3680207.3723465">Paper</a> · <a href="https://cdn.metaiot.group/files/slides/MobiCom2025_PassiveBLE_slides.pdf">Slides</a> · <a href="https://arxiv.org/pdf/2503.11490">PDF</a></p>
