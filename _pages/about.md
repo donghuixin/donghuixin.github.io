@@ -205,6 +205,7 @@ My HUST email account has been revoked. Kindly use my Gmail address for future c
 
 ### Conference Committee Member
 - Technical Program Committee (TPC) of IEEE ICPADS 2026
+- Technical Program Committee (TPC) of ACM EWSN 2027
 - Artifact Evaluation Committee of ACM MobiCom 2025, 2026
 - Artifact Evaluation Committee of ACM MobiSys 2024, 2025
 - Artifact Evaluation Committee of ACM SenSys 2024
@@ -225,6 +226,7 @@ My HUST email account has been revoked. Kindly use my Gmail address for future c
 
 <span class="anchor" id="talks"></span>
 # 💬 Talks
+- *2026.10*, Conference paper presentation (AmbientRider), ACM MobiCom 2026 in Austin, Texas, USA.
 - *2025.11.30*, "Low-Power, High-Performance Backscatter for RF Computing", Rising Star & Best Dissertation Forum, [Embedded Intelligence Summit (EIS) 2025](https://www.embedded-ai.org/2025/index.html) in Zhengzhou, China. [Program](https://www.embedded-ai.org/2025/schedule.html).
 - *2025.11*, Conference paper presentation (PassiveBLE and GPSoil), ACM MobiCom 2025 in Hong Kong, China.
 - *2025.08.24*, "GPSense: Passive Sensing with Pervasive GPS Signals", [PCC Top Conference and Journal Paper Session](https://hhme.ccf.org.cn/history/2025/PCC_top_paper.html), HHME & HMCC 2025 in Dalian, China.
