@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # ⛪ About me
-I spend about half my time on **Computer Games** and the other half on **Computer Science**, and I am still not sure which half is the life I envision.
-
-I am a postdoctoral researcher in the research group led by Prof. [Qian Zhang](https://www.cse.ust.hk/~qianzh/) at The Hong Kong University of Science and Technology. Previously, I obtained my Ph.D. degree in 2025 from Huazhong University of Science and Technology (HUST) under the supervision of Prof. [Wei Wang](https://cs.whu.edu.cn/info/1019/55961.htm) in [MetaIoT Lab](https://metaiot.group/).
+I spend about half my time on **Computer Games** and the other half on **Computer Science**, and I am still not sure which half is the future life I envisioned. I am a postdoctoral researcher in the research group led by Prof. [Qian Zhang](https://www.cse.ust.hk/~qianzh/) at The Hong Kong University of Science and Technology. Previously, I obtained my Ph.D. degree in 2025 from Huazhong University of Science and Technology (HUST) under the supervision of Prof. [Wei Wang](https://cs.whu.edu.cn/info/1019/55961.htm) in [MetaIoT Lab](https://metaiot.group/).
 
 My HUST email account has been revoked. Kindly use my Gmail address for future correspondence.
 
