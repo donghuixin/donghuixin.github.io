@@ -240,4 +240,8 @@ My HUST email account has been revoked. Kindly use my Gmail address for future c
 - *2025.03 - 2025.08*, Wuhan University, Research Assistant, Wuhan, China.
 - *2020.05 - 2020.08*, Peng Cheng Laboratory, mentored by [Qianyi Huang](https://huangqy89.github.io/), Shenzhen, China.
 
+# 🌍 Global Visitors Map
+
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=otaumG6m98ukyWmMdrL50T7zsQ39RFF527f2J7usBxs&cl=ffffff&w=a"></script>
+
 <small>Last updated: September 28, 2026.</small>
