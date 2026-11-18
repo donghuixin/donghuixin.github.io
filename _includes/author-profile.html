@@ -9,16 +9,15 @@
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
+    {% assign name_parts = author.name | split: ' ' %}{% assign name_latin_count = name_parts.size | minus: 1 %}
+    <h3 class="author__name">{% if name_latin_count > 0 %}{% for part in name_parts limit: name_latin_count %}{{ part }} {% endfor %}<span class="author__name-zh">{{ name_parts | last }}</span>{% else %}{{ author.name }}{% endif %}</h3>
+    {% if site.description %}<p class="author__role">{{ site.description }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
-      {% if site.description %}
-        <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
-      {% endif %}
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}

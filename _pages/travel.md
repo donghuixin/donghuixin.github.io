@@ -13,8 +13,8 @@ author_profile: true
 
 <svg class="travel-ornament" viewBox="0 0 132 11" aria-hidden="true" focusable="false">
 <path d="M0 5.5H54M78 5.5H132" stroke="#c8d2dc" stroke-width="1" fill="none"/>
-<path d="M66 1.5L70 5.5L66 9.5L62 5.5Z" fill="none" stroke="#0a6daf" stroke-width="1"/>
-<circle cx="66" cy="5.5" r="1.1" fill="#0a6daf"/>
+<path d="M66 1.5L70 5.5L66 9.5L62 5.5Z" fill="none" stroke="#a47a35" stroke-width="1"/>
+<circle cx="66" cy="5.5" r="1.1" fill="#a47a35"/>
 </svg>
 
 <blockquote class="travel-poem">
@@ -24,8 +24,8 @@ author_profile: true
 
 <svg class="travel-ornament" viewBox="0 0 132 11" aria-hidden="true" focusable="false">
 <path d="M0 5.5H54M78 5.5H132" stroke="#c8d2dc" stroke-width="1" fill="none"/>
-<path d="M66 1.5L70 5.5L66 9.5L62 5.5Z" fill="none" stroke="#0a6daf" stroke-width="1"/>
-<circle cx="66" cy="5.5" r="1.1" fill="#0a6daf"/>
+<path d="M66 1.5L70 5.5L66 9.5L62 5.5Z" fill="none" stroke="#a47a35" stroke-width="1"/>
+<circle cx="66" cy="5.5" r="1.1" fill="#a47a35"/>
 </svg>
 
 <p class="travel-coda">Research is also re-search for myself: returning to the familiar, and finding both it and ourselves anew.</p>
