@@ -242,6 +242,8 @@ My HUST email account has been revoked. Kindly use my Gmail address for future c
 
 # 🌍 Global Visitors Map
 
+<div style="width: 33.33%; max-width: 100%;">
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=otaumG6m98ukyWmMdrL50T7zsQ39RFF527f2J7usBxs&cl=ffffff&w=a"></script>
+</div>
 
 <small>Last updated: September 28, 2026.</small>
